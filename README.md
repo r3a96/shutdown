@@ -3,7 +3,7 @@ this script for shuting down your system at a time created
 
 
 
-download white git clone + link 
+download  git clone + link 
 
 
 chmod +x shutdown.py 
